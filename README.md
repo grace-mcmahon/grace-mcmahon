@@ -7,6 +7,7 @@ CS & Maths graduate (Durham) | starting MSc Advanced Computer Science | building
 ### 🛠 Skills & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat&logo=pytorch)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat&logo=postgresql)
@@ -14,21 +15,21 @@ CS & Maths graduate (Durham) | starting MSc Advanced Computer Science | building
 ---
 
 ### 📌 Featured Projects
-- **[Project name]** — one-line description of what it does and the key result. [Link coming soon]
+- **[Explainable Leaf Disease Classifier](https://github.com/grace-mcmahon/explainable-leaf-classifier)** — CNN-based plant disease classifier (99% test accuracy) with Grad-CNN explainability to visualise and critically evaluate the model's reasoning on correct *and* incorrect predictions. Built with PyTorch, ResNet18 transfer learning. 
 
 ---
 
 ### 🔭 I'm currently working on
-- Building out my portfolio site and first public project — check back soon!
+- A product/security-focused web app (React/Next.js) ahead of starting my MSc Advanced Computer Science
 
 ### 🌱 Currently learning
-- Deepening ML/full-stack skills ahead of MSc Advanced Computer Science
+- Deepening ML/full-stack skills and Front-end/UX design and secure web development
 
 ---
 
 ### 📫 Contact
 - LinkedIn: [your LinkedIn URL]
-- Email: [your email]
+- Email: [gracie.mcmahon@icloud.com]
 - Portfolio: [your Vercel portfolio link, once live]
 
 ---

@@ -37,7 +37,7 @@ CS & Maths graduate (Durham) | starting MSc Advanced Computer Science | building
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=grace-mcmahon&show_icons=true&theme=default)
+
 <!--
 **grace-mcmahon/grace-mcmahon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

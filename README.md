@@ -31,8 +31,7 @@ CS & Maths graduate (Durham) | starting MSc Advanced Computer Science | building
 ---
 
 ### 📫 Contact
-- LinkedIn: [your LinkedIn URL]
-- Email: [gracie.mcmahon@icloud.com]
+- Email: gracie.mcmahon@icloud.com
 
 
 ---

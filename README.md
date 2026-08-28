@@ -1,6 +1,6 @@
 ## Hi, I'm Grace McMahon 👋
 
-CS & Maths graduate (Durham) | starting MSc Advanced Computer Science | building ML and full-stack projects
+CS & Maths graduate (Durham) |starting MSc Advanced Computer Science at Newcastle University (September 2026–September 2027) | building ML and full-stack projects
 
 ---
 

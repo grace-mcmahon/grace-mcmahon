@@ -15,12 +15,14 @@ CS & Maths graduate (Durham) | starting MSc Advanced Computer Science | building
 ---
 
 ### 📌 Featured Projects
-- **[Explainable Leaf Disease Classifier](https://github.com/grace-mcmahon/explainable-leaf-classifier)** — CNN-based plant disease classifier (99% test accuracy) with Grad-CNN explainability to visualise and critically evaluate the model's reasoning on correct *and* incorrect predictions. Built with PyTorch, ResNet18 transfer learning. 
+- **[Explainable Leaf Disease Classifier](https://github.com/grace-mcmahon/explainable-leaf-classifier)** — CNN-based plant disease classifier (99% test accuracy) with Grad-CAM explainability to visualise and critically evaluate the model's reasoning on correct *and* incorrect predictions. Built with PyTorch, ResNet18 transfer learning.
+- - **[Password Strength Visualiser](YOUR_REPO_LINK)** — A password strength and breach-check tool that explains its reasoning in plain language rather than just a bar. Built with Next.js, React, and TypeScript, with real breach-checking via the Have I Been Pwned API using k-anonymity.
 
 ---
 
 ### 🔭 I'm currently working on
-- A product/security-focused web app (React/Next.js) ahead of starting my MSc Advanced Computer Science
+- Preparing to start my MSc Advanced Computer Science at Newcastle this September
+
 
 ### 🌱 Currently learning
 - Deepening ML/full-stack skills and Front-end/UX design and secure web development
@@ -30,7 +32,7 @@ CS & Maths graduate (Durham) | starting MSc Advanced Computer Science | building
 ### 📫 Contact
 - LinkedIn: [your LinkedIn URL]
 - Email: [gracie.mcmahon@icloud.com]
-- Portfolio: [your Vercel portfolio link, once live]
+
 
 ---
 
